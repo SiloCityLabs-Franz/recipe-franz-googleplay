@@ -2,14 +2,15 @@
 
 ## Installation
 
-1. Clone/download the folder `googleplay-franz`.
+1. Clone/download the folder `recipe-franz-googleplay`.
 
-2. Open the Franz Plugins folder on your machine:
-  * Mac: `~Library/Application Support/Franz/Plugins/`
-  * Windows: `%appdata%/Franz/Plugins`
-  * Linux: `~/.config/Franz/Plugins`
-  * Alternative: Go to your Franz settings page, and you will see an option to "Open the Franz plugin directory"
+2. Open the Franz Recipe folder on your machine:
+  * Mac: `~Library/Application Support/Franz/recipes/`
+  * Windows: `%appdata%/Franz/recipes/`
+  * Linux: `~/.config/Franz/recipes/`
 
-3. Copy the `googleplay-franz` folder into the plugins directory
+3. Create a `dev` folder if you have not already done so
+
+3. Copy the `recipe-franz-googleplay` folder into the recipes dev directory
 
 4. Restart Franz
