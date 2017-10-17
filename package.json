@@ -1,5 +1,6 @@
 {
-  "name": "googleplay-franz",
+  "id": "googleplay",
+  "name": "Google Play Music",
   "version": "1.0.0",
   "description": "Google Play Music",
   "main": "index.js",
